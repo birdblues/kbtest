@@ -1,0 +1,17 @@
+numpy==1.26.3
+pandas
+scipy
+matplotlib
+plotly
+ipywidgets
+dill
+tqdm
+dateparser
+imageio
+scikit-learn
+schedule
+requests
+pytz
+yfinance
+vectorbt
+riskfolio-lib==5.0.1

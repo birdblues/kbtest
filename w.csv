@@ -1,0 +1,236 @@
+MV,MAD,MSV,FLPM,SLPM,CVaR,TG,EVaR,RLVaR,WR,CVRG,TGRG,RG,ADD,UCI,CDaR,EDaR,RLDaR,MDD,GMD
+"      weights
+A     0.0000%
+AAPL  2.7531%
+ABC   2.3723%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  2.3424%
+ABC   0.7046%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  2.8935%
+ABC   3.6588%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  2.0188%
+ABC   1.1220%
+ABMD  0.0003%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  2.9579%
+ABC   3.8773%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  3.7962%
+ABC   2.9236%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  4.0998%
+ABC   3.7010%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  4.9709%
+ABC  10.5670%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.5676%
+ABC   1.8319%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]",,"      weights
+A     0.0000%
+AAPL  2.5323%
+ABC   1.1218%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]",,"      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.3634%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  0.0000%
+ABC   0.0000%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]","      weights
+A     0.0000%
+AAPL  2.3774%
+ABC   2.0776%
+ABMD  0.0000%
+ABT   0.0000%
+...       ...
+BMRN  0.0000%
+CHKP  0.0000%
+MXIM  0.0000%
+SHPG  0.0000%
+SIRI  0.0000%
+
+[612 rows x 1 columns]"
