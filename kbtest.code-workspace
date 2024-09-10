@@ -1,8 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "vscode-neovim.neovimExecutablePaths.darwin": "/opt/homebrew/bin/nvim"
+  }
 }
