@@ -5,6 +5,6 @@
     }
   ],
   "settings": {
-    "vscode-neovim.neovimExecutablePaths.darwin": "/opt/homebrew/bin/nvim"
+    "vscode-neovim.neovimExecutablePaths.darwin": "nvim"
   }
 }
